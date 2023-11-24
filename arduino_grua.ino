@@ -1,5 +1,3 @@
-//Canal de YouTube -> RobotUNO
-//Proyecto: Grua con servomotores
 #include <Servo.h>
 //Definicion de los servos
 Servo servo1;
